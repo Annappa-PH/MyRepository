@@ -1,0 +1,13 @@
+function sum(){
+
+   int a=50;
+   int b=20;
+  int sum=a-b;
+}
+
+function div(){
+
+   int a=60;
+   int b=20;
+  int div=b-a;
+}
