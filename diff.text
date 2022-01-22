@@ -2,7 +2,7 @@ function sum(){
 
    int a=50;
    int b=20;
-  int sum=a+b;
+  int sum=a-b;
 }
 
 function div(){
